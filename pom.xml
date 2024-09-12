@@ -16,6 +16,9 @@
     <name>extension-all</name>
     <url>https://github.com/ChenYilei2016/extension-all</url>
 
+    <modules>
+        <module>extension-spi</module>
+    </modules>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>

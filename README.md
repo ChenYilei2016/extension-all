@@ -2,27 +2,6 @@
 extension-tool 
 
 
-
 # extension-spi
 
-## 版本
-```xml
-<dependencies>
-    <dependency>
-        <groupId>io.github.chenyilei2016</groupId>
-        <artifactId>extension-spi</artifactId>
-        <version>1.0.0</version>
-    </dependency>
-</dependencies>
-```
-
-## extension-spi 工具包介绍
-
-> 抽出dubbo中的spi模块, 精简实用   
-> io.github.chenyilei2016.extension.spi.ExtensionSPI   
-> io.github.chenyilei2016.extension.spi.ExtensionAdaptive  
-> io.github.chenyilei2016.extension.spi.ExtensionActivate
->
-> resource目录 : /META-INF/extension-spi
->
-> 对于 spi.extension.chenyilei.io.github.ExtensionLoader 提供一些增强方法
+spi 使用
